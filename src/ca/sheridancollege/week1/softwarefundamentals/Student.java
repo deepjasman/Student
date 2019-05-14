@@ -17,7 +17,7 @@ public class Student {
      * Get the value of name
      *
      * @return the value of name
-     */
+     *///
     public String getName() {
         return name;
     }
